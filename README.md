@@ -6,7 +6,7 @@ Check the LaserWeb/CNCWeb Google+ community (https://plus.google.com/u/0/communi
 1. `cd Github`
 2. `git clone https://github.com/LaserWeb/LaserWeb3-Electron.git`
 3. `cd LaserWeb3-Electron`
-4. `git submodule init && git submodule update`
+4. `git submodule init && git submodule update` (grabs the HTML interface from https://github.com/LaserWeb/LaserWeb3-UI
 5. `npm install`
 
 ## Building package
