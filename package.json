@@ -1,6 +1,6 @@
 {
   "name": "laserweb",
-  "version": "3.549.0",
+  "version": "3.6.0",
   "description": "a fully featured web ui for laser cutter/engravers, reprap and other 3d printers",
   "contributors": [
     "Peter van der Walt <peter.plaaswerf@gmail.com>"
@@ -20,7 +20,7 @@
     "dotenv": "*",
     "node-static": "*",
     "request": "*",
-    "serialport": "^4.0.6",
+    "serialport": "*",
     "socket.io": "*"
   },
   "license": "AGPL-3.0",
